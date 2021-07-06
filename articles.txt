@@ -1,0 +1,56 @@
+5,Beef Cattle Feeding Principles of Kars Province Enterprises During the Winter Period,2062865016568953265,2021
+6,Farklı Seviyelerde Metabolik Enerji İçeren Rasyonlara Probiyotik-Enzim Karışımı İlavesinin Yumurtlayan Bıldırcınlarda Performansa, Yumurta Kalitesine ve Serum Parametrelerine Etkisi,12999355292173460019,2021
+7,Rasyona Lavanta Esansiyel Yağı İlavesinin Yumurtlayan Bıldırcınlarda Performans, Yumurta Kalitesi ve Serum Parametreleri Üzerine Etkisi,6551145960860430195,2021
+8,Farklı Oranlarda Sarı Mısır ve Buğday İçeren Rasyonların Yumurta Tavuklarında Performans, Yumurta Kabuk Kalitesi ve Sarı Rengi Üzerine Etkisi,15194014980619806742,2021
+9,Otomatik Sistem ve El ile Toplanan Tavuk Yumurtalarının Farklı Sıcaklıklarda Depolamanın Yumurta Kabuk Mikrobiyal Yükü ve Yumurta Kalitesi Üzerine Etkisi,8624055430686318886,2021
+10,Unraveling the Tragic Mystery Plummeting the Growth of Nigerian Livestock Sector,14301414460906923008,2021
+11,Siyah Alacalarda Kuru Dönem Süresinin Kısaltılması,11377911598055953043,2021
+12,Ruminantlarda Fitoterapi Uygulamaları,14022032683416866494,2021
+13,Türkiye Yerli Koyun Irklarında Yapılan Bazı Kuzu Besi Çalışmaları,13349212335114088822,2021
+14,Farklı Seviyelerde Metabolik Enerji İçeren Rasyonlara Sodyum Bütirat İlavesinin Büyüyen Bıldırcınlarda Performans, Karkas ve Bazı Kan Parametreleri Üzerine Etkisi,9308013579556864312,2020
+15,Japon Bıldırcınlarında Ebeveyn Ağırlığı ve Kuluçkalık Yumurta Ağırlığının Civciv Kalitesi ve Gelişmesi Üzerine Etkileri,17014320331274594448,2020
+16,Phenolic Characterization of Some Propolis Samples of Anatolia,15225336987006836699,2020
+17,Wombat Yazılımı Kullanılarak Malak Doğum Ağırlıklarında Birey Modeli Uygulaması,2910211947487923888,2020
+18,Damızlık Japon Bıldırcın Rasyonlarına Anason Tohumu (Pimpinella anisum L.) İlavesinin Performans, Yumurta Kalitesi, Kemik Mineralizasyonu, Kan ve Üreme Parametrelerine Etkisi,16478775210920305226,2020
+19,Bovine Herpesvirus-1 (BHV-1) ve Subtipleri,2653491907617219304,2020
+20,İneklerde Beden Dili ve Sürü Yönetimi,15367673406567605157,2020
+21,The Importance of Colostrum on Neonate Development in Ruminants,8905206631754972563,2020
+22,Hasak Koyunlarında Kalp Kas Köprüleri ve Koroner Arterler,1642713983605464310,2017
+23,Early Selection in Limousine and Simmental Candidate Bulls Based on The Preweaning Growth Curve of Body Weight,17684676513832578427,2020
+24,İvesi Irkı Koyunlarda Gebelik Muayenesi Amacıyla Dorsal Transrektal ve Transabdominal Yolla Yapılan Ultrasonografik Muayenenin Etkinliği,9718164139787817774,2020
+25,Konya Merkez İlçelerinde Koyunculuk İşletmelerinin Durumu,10641821776415456401,2020
+26,Bal, Propolis, Arı Sütü, Çivanperçemi (Achillea millefolium) ve Ekinezya (Echinacea paradoxa) Karışımından Fonksiyonel Gıda Üretimi, Ürünün Fizikokimyasal ve Biyokimyasal Özelliklerinin İncelenmesi,9070464401870523315,2020
+27,Kuzu ve Buzağılarda Süzek Yemleme Uygulamalarının Yararları,1442620200894442026,2020
+28,Koyunlarda Real-time Ultrasonografik Muayene ile Gebelik Tanısı,4840911307430733997,2020
+29,Sütçü Sığırlarda Laktasyon Persistensini Etkileyen Faktörler,2753740687553253047,2020
+30,Sütçü İneklerde Sağımın Önemli Bir Komplikasyonu: Hiperkeratozis,13910170189732095165,2020
+31,Siyah Alaca Sığırlarda Mastitis Teşhisinde Etkili Olan Faktörlerin Lojistik Regresyon Analizi ile Tespiti,12013071865158183881,2019
+32,Akkaraman ve İvesi Kuzularının Besi Sonundaki Bazı Vücut Ölçüleri ile Ultrason Ölçüleri Arasındaki İlişkiler,7702814608807498144,2019
+33,Japon Bıldırcınlarında In Ovo Gliserol Uygulamasının Kuluçka Özellikleri, Büyüme Performansı, Karkas ve Organ Ağırlıkları Üzerine Etkileri,2539525606383536368,2019
+34,Yumurta Tavuklarında Rasyona Farklı Seviyelerde Fındık Küspesi ve Enzim İlavesinin Performans ve Yumurta Kalite Özelliklerine Etkisi,16539988207153249540,2019
+35,Siyah Alaca Sığırlarda Bazı Verim Özelliklerine Ait Parametre Tahminleri. I: Döl Verim Özellikleri,4621575945876218756,2019
+36,Siyah Alaca Sığırlarda Bazı Verim Özelliklerine Ait Parametre Tahminleri. II: Süt Verim Özellikleri,8468434070570615124,2019
+37,Bal Arılarında Refah,250598049497409722,2019
+38,Konya İlinde Organik Balıkçılık Bilincinin Belirlenmesi,13618829939640461737,2019
+39,Comparison of Cows' Milk inTerms of Quantity and Content Raised under Organic and Conventional Conditions,2906628306386345628,2019
+40,Determination of Nutrient Losses Caused by Starlings in Total Mixed Ration in Dairy Cattle Farm,8973716109368019863,2019
+41,Effects of In-Ovo Injection of D3 Vitamin on Hatchability and Supply Organ Weights in Quail Hatching Eggs,2679706124824416034,2019
+42,Japon Bıldırcınlarında (Coturnix coturnix japonica) Rasyona Fındık Küspesi İlavesinin Büyüme Performansı ve Karkas Özelliklerine Etkisi,660887214751212547,2019
+43,Sütçü İneklerde Bakır, Çinko ve Selenyumun Fertilite Açısından Önemi,17706572132167394671,2019
+44,İneklerde Gebeliğin Erken Dönemlerinde Oluşan Mastitislerin Değerlendirilmesi,2007491362259476759,2018
+45,Saanen ve Alpin Oğlaklarda Besi Performansı, Kesim ve Karkas Özelliklerinin Tanımlanması,7085247616282681433,2018
+46,Türkiye’nin Avrupa Birliği’ne Katılımı Perspektifinden İtlaf ve Kesimde Kanatlı Refahı,571226070326761919,2018
+47,Kınalı Kekliklerde Yumurta Ağırlığının Kuluçka Sonuçları Üzerine Etkisi,15106278298663610555,2018
+48,Bazı Çalı Bitkilerinin Mevsimsel (İlkbahar, Yaz, Sonbahar) Yaprak Verimleri, Besin Madde İçerikleri ve Rumende Parçalanma Düzeyinin Belirlenmesi,5404243365680505973,2018
+49,Piyeten,5560518071173740483,2018
+50,Neonatal Dönem Buzağı İshallerinde Clostridium difficile,1262244748702661204,2018
+51,Koyunlarda Myostatin Geni ve Önemi,9354880803457410826,2018
+52,Nakil Sırasında Tavukların Korunmasına İlişkin Avrupa Birliği Standartları ve Türkiye'nin Topluluk Mevzuatına Uyumunun Değerlendirilmesi,12231826029863488550,2018
+54,The Pathological Investigations on Nutritional Myopathy Causing Lamb Deaths in Neonatal Period,107692195707622254,2017
+55,Yumurtacı Tavuk Gönenci (Refah) ve Avrupa Birliği Sürecinde İlgili Mevzuatın Karşılaştırılması,4824638974156151072,2017
+56,Şap Hastalığının Miyokardiyal Formundan Ölen İki Kuzuda Kalp ve Dilde Gözlenen Patolojik Bulgular,12023079596621682673,2017
+57,Avrupa Birliği’nde Etçi ve Yumurtacı Tavukların Refah Standartları için Yasal Gereklilikler ve Türkiye’nin Uyumu,8454939023559112562,2017
+58,Aksaray Yöresi Kazlarda Kuluçka Randımanı Üzerine Araştırmalar,3456673793055488465,2017
+59,Yulaf (Avena sativa spp.) Tanesinde Bazı Fiziksel Özellikler ve Besin Bileşenlerinin Tespiti,17076489605970930434,2017
+60,Kafes Kuşlarında Kullanılan Aşılar,7558162066512171126,2017
+61,Peynir Altı Suyunun İnsan ve Hayvanlarda Metabolizma Üzerindeki Etkileri,17520512537710788598,2017
