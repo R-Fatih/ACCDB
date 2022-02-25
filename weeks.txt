@@ -1,6 +1,6 @@
 25.Hafta-twentyfive
 26.Hafta-twentysix
-21_22.Hafta Erteleme-postponed
+21_22.HaftaErteleme-postponed
 27.Hafta-twentyseven
 28.Hafta-twentyeight
 29.Hafta-twentynine
