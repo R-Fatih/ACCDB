@@ -1,20 +1,35 @@
 Alanyaspor
 Antalyaspor
 Beşiktaş
-ÇaykurRizespor
-FatihKaragümrük
+Çaykur Rizespor
+Fatih Karagümrük
 Fenerbahçe
 Galatasaray
 Gaziantep
 Göztepe
 Hatayspor
-İstanbulBaşakşehir
+İstanbul Başakşehir
 Kasımpaşa
 Kayserispor
 Konyaspor
 Sivasspor
 Trabzonspor
-YeniMalatyaspor
+Yeni Malatyaspor
 Giresunspor
 Altay
-AdanaDemirspor
+Adana Demirspor
+Porto
+Lyon
+Betis
+Frankfurt
+Sevilla
+WestHam
+Leipzig
+Spartak
+Rangers
+Kızılyıldız
+Braga
+Monaco
+Atalanta
+Leverkusen
+Barcelona
