@@ -6,7 +6,6 @@ ZTK ÇF-ztkqf
 28.Hafta-twentyeight
 UEL S16 1-uell16first
 29.Hafta-twentynine
-UEL S16 2-uell16second
 30.Hafta-thirty
 31.Hafta-thirtyone
 32.Hafta-thirtytwo
