@@ -2,9 +2,9 @@
 26.Hafta-twentysix
 21_22.HaftaErteleme-postponed
 27.Hafta-twentyseven
-ZTK ÇF-ztkqf
+ZTKÇF-ztkqf
 28.Hafta-twentyeight
-UEL S16 1-uell16first
+UELS16 1-uell16first
 29.Hafta-twentynine
 30.Hafta-thirty
 31.Hafta-thirtyone
