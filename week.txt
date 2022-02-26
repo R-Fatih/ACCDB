@@ -4,7 +4,7 @@
 27.Hafta-twentyseven
 ZTKÇF-ztkqf
 28.Hafta-twentyeight
-UELS16 1-uell16first
+UELS161-uell16first
 29.Hafta-twentynine
 30.Hafta-thirty
 31.Hafta-thirtyone
