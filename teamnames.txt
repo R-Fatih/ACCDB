@@ -33,4 +33,16 @@ Monaco
 Atalanta
 Leverkusen
 Barcelona
+Rusya
+Polonya
+İskoçya
+Ukrayna
+Galler
+Avusturya
+İsveç
+Çekya
+İtalya
+Makedonya
+Portekiz
+Türkiye
 Alashkert
