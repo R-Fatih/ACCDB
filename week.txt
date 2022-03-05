@@ -12,8 +12,10 @@ WCPOFF-wcqfpof
 31.Hafta-thirtyone
 32.Hafta-thirtytwo
 33.Hafta-thirtythree
+ZTKYF1-ztksffirst
 34.Hafta-thirtyfour
 35.Hafta-thirtyfive
 36.Hafta-thirtysix
+ZTKYF2-ztksfsecond
 37.Hafta-thirtyseven
 38.Hafta-thirtyeight
