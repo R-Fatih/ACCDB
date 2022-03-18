@@ -53,4 +53,12 @@ Villarreal
 Bayern
 Benfica
 Liverpool
+Feyenoord
+S.Praha
+B.Glimt
+Roma
+Marseille
+Paok
+L.City
+PSV
 Alashkert
