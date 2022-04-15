@@ -17,7 +17,9 @@ UEFAQF2-uefaqfsecond
 33.Hafta-thirtythree
 ZTKYF1-ztksffirst
 34.Hafta-thirtyfour
+UEFASF1-uefasffirst
 35.Hafta-thirtyfive
+UEFASF2-uefasfsecond
 36.Hafta-thirtysix
 ZTKYF2-ztksfsecond
 37.Hafta-thirtyseven
