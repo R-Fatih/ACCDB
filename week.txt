@@ -1,38 +1,38 @@
-1. Hafta-one
-2. Hafta-two
-3. Hafta-three
-4. Hafta-four
-5. Hafta-five
-6. Hafta-six
-7. Hafta-seven
-8. Hafta-eight
-9. Hafta-nine
-10. Hafta-ten
-11. Hafta-eleven
-12. Hafta-twelve
-13. Hafta-thirteen
-14. Hafta-fourteen
-15. Hafta-fifteen
-16. Hafta-sixteen
-17. Hafta-seventeen
-18. Hafta-eighteen
-19. Hafta-nineteen
-20. Hafta-twenty
-21. Hafta-twentyone
-22. Hafta-twentytwo
-23. Hafta-twentythree
-24. Hafta-twentyfour
-25. Hafta-twentyfive
-26. Hafta-twentysix
-27. Hafta-twentyseven
-28. Hafta-twentyeight
-29. Hafta-twentynine
-30. Hafta-thirty
-31. Hafta-thirtyone
-32. Hafta-thirtytwo
-33. Hafta-thirtythree
-34. Hafta-thirtyfour
-35. Hafta-thirtyfive
-36. Hafta-thirtysix
-37. Hafta-thirtyseven
-38. Hafta-thirtyeight
+1.Hafta-one
+2.Hafta-two
+3.Hafta-three
+4.Hafta-four
+5.Hafta-five
+6.Hafta-six
+7.Hafta-seven
+8.Hafta-eight
+9.Hafta-nine
+10.Hafta-ten
+11.Hafta-eleven
+12.Hafta-twelve
+13.Hafta-thirteen
+14.Hafta-fourteen
+15.Hafta-fifteen
+16.Hafta-sixteen
+17.Hafta-seventeen
+18.Hafta-eighteen
+19.Hafta-nineteen
+20.Hafta-twenty
+21.Hafta-twentyone
+22.Hafta-twentytwo
+23.Hafta-twentythree
+24.Hafta-twentyfour
+25.Hafta-twentyfive
+26.Hafta-twentysix
+27.Hafta-twentyseven
+28.Hafta-twentyeight
+29.Hafta-twentynine
+30.Hafta-thirty
+31.Hafta-thirtyone
+32.Hafta-thirtytwo
+33.Hafta-thirtythree
+34.Hafta-thirtyfour
+35.Hafta-thirtyfive
+36.Hafta-thirtysix
+37.Hafta-thirtyseven
+38.Hafta-thirtyeight
