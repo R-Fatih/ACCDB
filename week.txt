@@ -6,10 +6,14 @@
 6.Hafta-six
 7.Hafta-seven
 8.Hafta-eight
+UEFAW3-uefaw3
 9.Hafta-nine
+UEFAW4-uefaw4
 10.Hafta-ten
 11.Hafta-eleven
+UEFAW5-uefaw5
 12.Hafta-twelve
+UEFAW6-uefaw6
 13.Hafta-thirteen
 14.Hafta-fourteen
 15.Hafta-fifteen
