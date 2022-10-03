@@ -64,4 +64,16 @@ PSV
 MKEAnkaragücü
 İstanbulspor
 Ümraniyespor
+Inter
+Marseille
+Ajax
+Napoli
+Brugge
+Frankfurt
+Tottenham
+Milan
+Shaktar
+Sevilla
+Dortmund
+PSG
 Alashkert
