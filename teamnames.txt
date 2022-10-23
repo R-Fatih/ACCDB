@@ -91,4 +91,7 @@ Haifa
 Plzen
 Sporting
 Arsenal
+Cluj
+Fiorentina
+Hearts
 Alashkert
