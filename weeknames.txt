@@ -17,6 +17,13 @@ UEFAW6
 13.Hafta
 ZTK4T
 14.Hafta
+DK1
+DK2
+DK3
+DKS16
+DKÇF
+DKYF
+DKF
 15.Hafta
 16.Hafta
 17.Hafta
