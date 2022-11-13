@@ -17,6 +17,13 @@ UEFAW6-uefaw6
 13.Hafta-thirteen
 ZTK4T-ztkfr
 14.Hafta-fourteen
+DK1-wc1
+DK2-wc2
+DK3-wc3
+DK16-wc16
+DKÇF-wcqf
+DKYF-wcsf
+DKF-wcf
 15.Hafta-fifteen
 16.Hafta-sixteen
 17.Hafta-seventeen
