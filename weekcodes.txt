@@ -20,6 +20,7 @@ fourteen
 wc1
 wc2
 wc3
+wc3_2
 wc16
 wcqf
 wcsf
