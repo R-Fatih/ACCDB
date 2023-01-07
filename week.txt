@@ -31,6 +31,7 @@ ZTK5T-ztkfi
 17.Hafta-seventeen
 18.Hafta-eighteen
 19.Hafta-nineteen
+ZTKS16-ztkl16
 20.Hafta-twenty
 21.Hafta-twentyone
 22.Hafta-twentytwo
@@ -38,15 +39,19 @@ ZTK5T-ztkfi
 24.Hafta-twentyfour
 25.Hafta-twentyfive
 26.Hafta-twentysix
+ZTKÇF-ztkqf
 27.Hafta-twentyseven
 28.Hafta-twentyeight
 29.Hafta-twentynine
 30.Hafta-thirty
+ZTKYF_1-ztksf_1
 31.Hafta-thirtyone
 32.Hafta-thirtytwo
 33.Hafta-thirtythree
+ZTKYF_2-ztksf_2
 34.Hafta-thirtyfour
 35.Hafta-thirtyfive
 36.Hafta-thirtysix
 37.Hafta-thirtyseven
 38.Hafta-thirtyeight
+ZTKF-ztkfinal
