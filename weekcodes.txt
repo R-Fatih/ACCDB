@@ -36,7 +36,8 @@ twenty
 twentyone
 twentytwo
 twentythree
-uefanr
+uefanr_1
+uefanr_2
 twentyfour
 twentyfive
 twentysix
