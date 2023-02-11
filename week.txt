@@ -36,6 +36,7 @@ ZTKS16-ztkl16
 21.Hafta-twentyone
 22.Hafta-twentytwo
 23.Hafta-twentythree
+UEFANR-uefanr
 24.Hafta-twentyfour
 25.Hafta-twentyfive
 26.Hafta-twentysix

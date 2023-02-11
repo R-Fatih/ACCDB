@@ -36,6 +36,7 @@ ZTKS16
 21.Hafta
 22.Hafta
 23.Hafta
+UEFANR
 24.Hafta
 25.Hafta
 26.Hafta
