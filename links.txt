@@ -1,2 +1,2 @@
-https://storage.googleapis.com/project43611/main/mux_video/index-1.m3u8
+http://m3uline.com:8080/ondortsubatikibin2-restream/JsKQXHwG/6
 https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk_480p.m3u8?e=1676456084&st=XY45weYQ60bzVE89bdQAGg
