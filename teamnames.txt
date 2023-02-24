@@ -160,4 +160,10 @@ Dnipro
 Sheriff
 Partizan
 Ludogorets
+U.SG
+Freiburg
+Alkmaar
+Nice
+Djurgarden
+Bratislava
 Alashkert
