@@ -1,8 +1,3 @@
 https://17.merthakan5.cfd/fatih3/index.m3u8
-https://v5.merthakan5.cfd/sky3/index.m3u8
-https://v5.merthakan5.cfd/sky1/index.m3u8
-https://v5.merthakan5.cfd/sky2/index.m3u8
 https://v5.merthakan5.cfd/beinsport2/index.m3u8
-https://v5.merthakan5.cfd/sky5/index.m3u8
-https://v5.merthakan5.cfd/sky4/index.m3u8
-https://v5.merthakan5.cfd/dazn1/index.m3u8
+https://justin36.fra1.cdn.digitaloceanspaces.com/assia2/mix-sport2/main.m3u8?1678395775&1678395766842
