@@ -1,0 +1,7 @@
+GuessBender'a hoşgeldiniz.
+1) Oyunumuzda Türkiye, İngiltere, Almanya, Fransa, İtalya ve Uluslararası düzeydeki maçların skorlarını tahmin etmeye çalışacaksınız.
+2) Üye ol ekranından istediğiniz ligleri seçerek sadece o liglerin maçlarını tahmin edebilirsiniz.
+3) Her ülkenin puan durumu ayrı olarak tutulmaktadır.
+4) Puan sistemi hakkında daha fazla bilgi için kurallar kısmına gidebilirsiniz.
+5) Her 2 ay sonunda tüm puanlar sıfırlanacak olup her ligde ilk 3e girenlere rozet verilecektir.
+6) Sezon sonunda en fazla rozete sahip 3 oyuncu sürpriz hediyelerin sahibi olacaktır.
